@@ -1,4 +1,4 @@
-#**Uber Trip Analysis:**
+# **Uber Trip Analysis:**
 
 **Motivation:**
 In our day-to-day life, we must go to several places for various purposes like work, study, education, eat etc. So, we must travel through something to get to the place. And Uber is one of the most used travel facility these days. Uber is a platform where those who drive and deliver can connect with riders, eaters, and restaurants. 
