@@ -21,7 +21,7 @@ The order of major steps that we perform in the project are as follows:
 10.	Plotting Mean distance of Trip w.r.t Category
 11.	Plotting Category wise Trip per day
 
-**Skills (technical and otherwise):**
+**Skills gained (technical and otherwise):**
 From this project, I’ve drawn valuable insights from Uber trip data. This helped me in getting a better understanding on the transportation system that we daily travel in. I’ve also learnt plotting various types of graphs. 
 
 **Impact/obstacles:**
